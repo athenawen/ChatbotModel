@@ -1,1 +1,1 @@
-ChatGPT chatbot app model in Swift.
+ChatGPT chatbot app model
